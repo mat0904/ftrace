@@ -1,0 +1,15 @@
+*.o
+*.a
+*.log
+vgcore.*
+.idea
+*.gcda
+*.gcno
+ftrace
+ftrace_test
+tmp
+a.out
+a.S
+.vscode/
+.gdb_history
+.gdbinit
